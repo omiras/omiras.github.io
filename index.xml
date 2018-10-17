@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My Portfolio Website</title>
+    <link>https://omiras.github.io/</link>
+    <description>Recent content on My Portfolio Website</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 05 Jun 2018 16:59:01 +0200</lastBuildDate>
+    
+	<atom:link href="https://omiras.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Tramit Website | Oscar Miras</title>
+      <link>https://omiras.github.io/tramitweb/</link>
+      <pubDate>Tue, 05 Jun 2018 16:59:01 +0200</pubDate>
+      
+      <guid>https://omiras.github.io/tramitweb/</guid>
+      <description>The Client Tramit Economistes is the most important financial consulting company located in Sant Feliu de Guixols, Girona. It manages the financial services of more than 30 venues in the area. Most of these venues work in tourism services, such as restaurants or pubs.
+Background Tramit Economistes had a website, build in the late 2008 in Joomla. Mobile first design was just starting to show up 10 years ago, as we can realise regarding the aspect of the former website.</description>
+    </item>
+    
+    <item>
+      <title>Ca la Pepa REstaurant | Oscar Miras</title>
+      <link>https://omiras.github.io/calapepa/</link>
+      <pubDate>Mon, 06 Aug 2018 20:03:11 +0200</pubDate>
+      
+      <guid>https://omiras.github.io/calapepa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Akvin Tourism | Akash Dume, Oscar Miras</title>
+      <link>https://omiras.github.io/akvintourism/</link>
+      <pubDate>Thu, 20 Sep 2018 18:50:53 +0200</pubDate>
+      
+      <guid>https://omiras.github.io/akvintourism/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
