@@ -39,5 +39,15 @@ Background Tramit Economistes had a website, build in the late 2008 in Joomla. M
       <description></description>
     </item>
     
+    <item>
+      <title>Galia Project | Oscar Miras at Houndline</title>
+      <link>https://omiras.github.io/galia/</link>
+      <pubDate>Thu, 05 Jun 2014 16:59:01 +0200</pubDate>
+      
+      <guid>https://omiras.github.io/galia/</guid>
+      <description>The Client Agbar is the major authority in water management in Barcelona. It was needed a system to clean up the sewer system. I had previous experience for building them a working prototype and now they wanted to bring this system to the next level: a separate desktop application which was running on a Toughbook that must get synchronized with a Web Application.
+The Challange One of the most challenging aspects of this project was synchronization.</description>
+    </item>
+    
   </channel>
 </rss>
